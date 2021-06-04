@@ -7,3 +7,4 @@ WORKDIR /app
 EXPOSE 5000
 
 CMD dotnet /app/devops-dotnet-sample.dll
+
